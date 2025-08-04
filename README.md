@@ -23,7 +23,3 @@ How to Run:
 - Open the project in NetBeans
 - Compile and run the main method (if you have one)
 - Or instantiate and test classes through the IDE
-
-Example Output
-R1 0 1 100  
-R2 1 2 50
