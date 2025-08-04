@@ -11,13 +11,13 @@ Circuit Class (Singleton): Manages the overall circuit as a singleton object tha
 
 Features:
 
-Validates constructor arguments using IllegalArgumentException.
+- Validates constructor arguments using IllegalArgumentException.
 
-Automatically assigns unique IDs to nodes and resistors.
+- Automatically assigns unique IDs to nodes and resistors.
 
-Uses an ArrayList to store all resistors in the circuit.
+- Uses an ArrayList to store all resistors in the circuit.
 
-Follows clean object-oriented design practices.
+- Follows clean object-oriented design practices.
 
 How to Run:
 - Open the project in NetBeans
